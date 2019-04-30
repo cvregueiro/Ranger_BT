@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Ranger_BT</string>
+
+    <string name="cmd_left">Left</string>
+    <string name="cmd_stop">Stop</string>
+    <string name="cmd_right">Right</string>
+    <string name="cmd_leds">Leds</string>
+    <string name="cmd_back">Back</string>
+    <string name="cmd_front">Front</string>
+    <string name="cmd_get_gyro">Gyro</string>
+
+    <string name="BT">BT</string>
+    <string name="scan">Scan</string>
+    <string name="BT_address">"00:1B:10:10:1D:69"</string>
+
+
+    <array name="leds_ids">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>
+        <item>"9"</item>
+        <item>"10"</item>
+        <item>"11"</item>
+        <item>"12"</item>
+    </array>
+</resources>
